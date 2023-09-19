@@ -11,7 +11,6 @@ import {
   Toolbar,
   Typography,
 } from "@mui/material";
-import { blue, red } from "@mui/material/colors";
 import React, { useState } from "react";
 
 const StyledToolbar = styled(Toolbar)({
