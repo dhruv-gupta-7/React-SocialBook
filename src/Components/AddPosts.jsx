@@ -8,7 +8,7 @@ import {
   Tooltip,
   Typography,
 } from "@mui/material";
-import { Add, Image } from "mui/icons-material";
+import { Add, Image } from "@mui/icons-material";
 import { Stack } from "@mui/material";
 import React, { useState } from "react";
 import Posts from "./Posts";
