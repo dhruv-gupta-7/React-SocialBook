@@ -8,7 +8,7 @@ import { MoreVert as MoreVertIcon } from "@mui/icons-material";
 import { red } from "@mui/material/colors";
 import ShareIcon from "@mui/icons-material/Share";
 import { Box, Checkbox } from "@material-ui/core";
-import { Favorite, FavoriteBorder } from "@material-ui/icons";
+import { Favorite, FavoriteBorder } from "@mui/icons-material";
 import { v4 as uuidv4 } from 'uuid';
 import { Avatar } from "@mui/material";
 
