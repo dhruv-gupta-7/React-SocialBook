@@ -1,4 +1,4 @@
-import { Mail, Notifications, Pets } from "mui/icons-material";
+import { Mail, Notifications, Pets } from "@mui/icons-material";
 import {
   AppBar,
   Avatar,
