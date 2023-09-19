@@ -14,7 +14,7 @@ import {
   ExpandMore,
   Favorite,
   FavoriteBorder,
-} from "@material-ui/icons";
+} from "@mui/icons-material";
 
 const PrevPosts = () => {
   return (
