@@ -8,10 +8,6 @@
 }
 
 @media screen and (max-width: 840px){
-    #posts{
-        /* margin-left: auto; */
-
-    }
 
     #addPosts{
         min-width: 250px;
